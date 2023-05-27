@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    list-style: none;
+    box-sizing: border-box;
+}
+body{
+    background-color: aquamarine;
+    background-size: cover;
+}
+
+.music{
+}
+.card-1 {
+    background: linear-gradient(#b10000, #3300ff, #00ff08);
+    width: 300px; 
+    height: 400px;
+    display: inline-block;
+    padding-top: 30px;
+    border-radius: 20px;
+    margin-left: 450px;
+    margin-top: 100px;
+}
+.card-1__img {
+    width: 200px;
+}
+.card-1__name {
+    margin: 30px;
+    color: #fbfbfb;
+    font-size: 23px;
+}
+.card-2__music {
+}
+.card-2 {
+    background: linear-gradient(#fbfbfb, #000000, #ff00b7);
+    width: 300px; 
+    height: 400px;
+    display: inline-block;
+    padding-top: 30px;
+    border-radius: 20px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.card-2__img {
+    width: 200px;
+}
+.card-2__name {
+    margin: 30px;
+    color: #fbfbfb;
+}
